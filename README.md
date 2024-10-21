@@ -2,6 +2,16 @@
 
 Bienvenue sur mon portfolio GitHub. Je suis passionné par l'intelligence artificielle, le deep learning et les solutions de vision par ordinateur. Actuellement en Master en Systèmes Intelligents et Multimédias à l'Université de La Rochelle et l'Institut Francophone International, je travaille sur des projets innovants utilisant des techniques avancées d'apprentissage profond et de traitement d'images.
 
+## Parcours Académique
+
+- **Master en Systèmes Intelligents et Multimédias (Double diplôme)**
+  - Université de La Rochelle (France) et Institut Francophone International, Hanoi, Vietnam
+  - *2023 - 2025*
+
+- **Licence en Réseaux Informatiques et Télécommunication**
+  - Université Catholique de l'Afrique de l'Ouest - Unité Universitaire du Togo, Lomé, Togo
+  - *2014 - 2017*
+
 ## Projets
 
 ### 1. Détection des Signes de la Main
@@ -38,4 +48,9 @@ Bienvenue sur mon portfolio GitHub. Je suis passionné par l'intelligence artifi
 ## Certifications
 - **Google Data Analytics Certificate, Coursera**
 - **The Business Intelligence Analyst Course, Udemy**
+
+## Contact
+
+- **Email :** alassaniabdoulgaston@gmail.com
+- **LinkedIn :** [Abdoul-Saib Gaston Alassani](https://www.linkedin.com/in/abdoul-saib-gaston-alassani-307823)
 
